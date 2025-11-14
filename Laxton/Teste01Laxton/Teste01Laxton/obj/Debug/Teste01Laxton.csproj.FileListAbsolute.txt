@@ -1,0 +1,13 @@
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\bin\Debug\Teste01Laxton.exe.config
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\bin\Debug\Teste01Laxton.exe
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\bin\Debug\Teste01Laxton.pdb
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\bin\Debug\System.IO.Ports.dll
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\bin\Debug\System.IO.Ports.xml
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\obj\Debug\Teste01Laxton.csproj.AssemblyReference.cache
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\obj\Debug\Teste01Laxton.Form1.resources
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\obj\Debug\Teste01Laxton.Properties.Resources.resources
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\obj\Debug\Teste01Laxton.csproj.GenerateResource.cache
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\obj\Debug\Teste01Laxton.csproj.CoreCompileInputs.cache
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\obj\Debug\Teste01L.FD7F4361.Up2Date
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\obj\Debug\Teste01Laxton.exe
+C:\teste\Laxton\Teste01Laxton\Teste01Laxton\obj\Debug\Teste01Laxton.pdb
